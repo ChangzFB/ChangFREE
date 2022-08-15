@@ -1,5 +1,3 @@
-# Convert
-**Sebuah alat untuk convert atau menukarkan cookie ke akses token facebook anda untuk cara menggunakan :** https://youtu.be/Xv0plMtS4Cw
 
 # MENU
 ![IMG_20220815_111446](https://user-images.githubusercontent.com/98962829/184571223-9dd83452-6567-4ace-9d95-c3fc2ff5faae.jpg)
