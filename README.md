@@ -2,11 +2,7 @@
 **Sebuah alat untuk convert atau menukarkan cookie ke akses token facebook anda untuk cara menggunakan :** https://youtu.be/Xv0plMtS4Cw
 
 # MENU
-![IMG_20220814_211443](https://user-images.githubusercontent.com/98962829/184539013-8d591d62-d808-414d-94d7-c5213d9c9555.jpg)
-# TOKEN EAAI
-![IMG_20220814_211502](https://user-images.githubusercontent.com/98962829/184539132-cfc2d88e-78ef-4a01-95ba-36b7636dbd1f.jpg)
-# TOKEN EAAB
-![IMG_20220814_211522](https://user-images.githubusercontent.com/98962829/184539117-f297446c-2b48-4c5a-8aa1-f49b44d8e6a1.jpg)
+![IMG_20220815_111446](https://user-images.githubusercontent.com/98962829/184571223-9dd83452-6567-4ace-9d95-c3fc2ff5faae.jpg)
 
 
 
@@ -28,20 +24,20 @@
 
 python3 -m pip install requests bs4
 
- rm -rf Token
+ rm -rf ChangFREE
 
- git clone https://github.com/ChangFB/Token
+ git clone https://github.com/ChangFB/ChangFREE
 
- cd Token
+ cd ChangFREE
  
  python run.py
 ```
 ## Cara Update
 ```php
-rm -rf Token
-git clone https://github.com/ChangzFB/Token
+rm -rf ChangFREE
+git clone https://github.com/ChangzFB/ChangFREE
 ls
-cd Token
+cd ChangFREE
 git pull
 ls
 python run.py
